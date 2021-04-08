@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... web projects and competitive programing
 - 💬 Ask me about ... Anything, either I recall or I learn
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... I have a habit of exploring everything which messes with my time 
 
 🕵 Take a look at my repositories and let's get in touch!
