@@ -1,4 +1,5 @@
 ### Hi there I Am Rajiv Ranjan👋
+![](https://komarev.com/ghpvc/?username=rajivranjanmars&color=blue)
 
 [![Linkedin Badge](https://img.shields.io/badge/-rajivranjanmars-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajivranjanmars/)](https://www.linkedin.com/in/rajivranjanmars/) 
 [![Twitter Badge](https://img.shields.io/badge/-@mars_rajiv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mars_rajiv)](https://twitter.com/mars_rajiv) 
