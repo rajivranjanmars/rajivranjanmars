@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...problrm solving & web
+- 🔭 I’m currently working on ...problem solving & web development
 - 🌱 I’m currently learning ...  c++ and javascript
 - 👯 I’m looking to collaborate on ... web development
 - 🤔 I’m looking for help with ... web projects and competitive programing
