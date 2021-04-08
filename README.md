@@ -15,8 +15,8 @@
 -->
 
 
-- 🔭 I’m currently working on **Problem Solving & Web Project** 
-- 🌱 I’m currently learning **C++ and javascript🤣**
+- 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** and **Cordinator-Lead at Devloper Student Clubs LPU, Punjab **
+- 🌱 I’m currently learning **Problem Solving & Web Project** 
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **web projects and competitive programing**
 - 🥅 2021 Goals: **Contribute more  projects & learn new stacks**
