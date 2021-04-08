@@ -4,6 +4,7 @@
 <h3>A budding programmer exploring new fields of development.</h3>
 
 
+🕵 Take a look at my repositories and let's get in touch!
 [![Linkedin Badge](https://img.shields.io/badge/-rajivranjanmars-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajivranjanmars/)](https://www.linkedin.com/in/rajivranjanmars/) 
 [![Twitter Badge](https://img.shields.io/badge/-@mars_rajiv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mars_rajiv)](https://twitter.com/mars_rajiv) 
 [![Facebook Badge](https://img.shields.io/badge/-rajivranjanamrs-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/rajivranjanmars)](https://www.facebook.com/rajivranjanmars) 
@@ -13,13 +14,15 @@
 -->
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...problem solving & web development
-- 🌱 I’m currently learning ...  c++ and javascript
-- 👯 I’m looking to collaborate on ... web development
-- 🤔 I’m looking for help with ... web projects and competitive programing
-- 💬 Ask me about ... Anything, either I recall or I learn
+- 🔭 I’m currently working on **Problem Solving & Web Project** 
+- 🌱 I’m currently learning **C++ and javascript🤣**
+- 👯 I’m looking to collaborate on **Web Development**
+- 🤔 I’m looking for help with **web projects and competitive programing**
+- 💬 Ask me about Anything **either I recall or I learn**
 - 😄 Pronouns: ...He/Him
 
-🕵 Take a look at my repositories and let's get in touch!
+
+
+
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
