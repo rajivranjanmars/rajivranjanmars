@@ -18,14 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I have a habit of exploring everything which messes with my time 
 
 🕵 Take a look at my repositories and let's get in touch!
-
-<p align="left">
-<a href="https://dev.to/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/13219775/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/13219775/ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/developer.ishan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="developer.ishan" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
