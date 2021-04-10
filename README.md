@@ -4,6 +4,14 @@
 <h3>A budding programmer exploring new fields of development.</h3>
 
 
+
+- 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
+- 🌱 I’m currently learning **Problem Solving & Web Devlopment** 
+- 👯 I’m looking to collaborate on **Web Development**
+- 🤔 I’m looking for help with **web projects and competitive programing**
+- 🥅 2021 Goals: **Contribute more  projects & learn new stacks**
+- 💬 Ask me about Anything **either I recall or I learn**
+
 🕵 Take a look at my repositories and let's get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-rajivranjanmars-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajivranjanmars/)](https://www.linkedin.com/in/rajivranjanmars/) 
@@ -13,14 +21,6 @@
 <!--
 [![Stack_Overflow Badge](https://img.shields.io/badge/-@rajivranjanmars-F59812?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/cv/rajivranjanmars)](https://stackoverflow.com/users/14265360/rajiv-ranjan-mars) 
 -->
-
-
-- 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
-- 🌱 I’m currently learning **Problem Solving & Web Devlopment** 
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for help with **web projects and competitive programing**
-- 🥅 2021 Goals: **Contribute more  projects & learn new stacks**
-- 💬 Ask me about Anything **either I recall or I learn**
 
 
 ### 📈 Github Stats:
@@ -56,10 +56,11 @@
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <br/>
 
-<div></div>
-<pre>
+<div>
 
-</pre>
+
+</div>
+
 
 
 ### Tools:
