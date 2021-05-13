@@ -1,9 +1,5 @@
 ### Hi there I Am Rajiv Ranjan <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
-
-![](https://komarev.com/ghpvc/?username=rajivranjanmars&color=blue)
 <h3>A budding programmer exploring new fields of development.</h3>
-
-
 
 - 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
 - 🌱 I’m currently learning **Problem Solving & Web Devlopment** 
@@ -22,7 +18,6 @@
 [![Stack_Overflow Badge](https://img.shields.io/badge/-@rajivranjanmars-F59812?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/cv/rajivranjanmars)](https://stackoverflow.com/users/14265360/rajiv-ranjan-mars) 
 -->
 
-
 ### 📈 Github Stats:
 
 <a href="https://github.com/rajivranjanmars">
@@ -32,10 +27,8 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajivranjanmars&layout=compact&theme=blue-green" />
 </a>
 
-
 <!--
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">-->
-
 
 <br>
 
@@ -56,15 +49,6 @@
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <br>
 
-<div>
-
-<br>
-<br>
-<br>
-</div>
-
-
-
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -72,7 +56,3 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Wordpress" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-
-
-
-
