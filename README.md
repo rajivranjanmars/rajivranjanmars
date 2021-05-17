@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
+- 👨‍🏭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
 - 🌱 I’m currently learning **Problem Solving & Web Devlopment** 
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **web projects and competitive programing**
