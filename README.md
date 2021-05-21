@@ -23,15 +23,6 @@
 -->
 
 
-### 📈 Github Stats:
-
-<a href="https://github.com/rajivranjanmars">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivranjanmars&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
-</a>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajivranjanmars&layout=compact&theme=blue-green" />
-</a>
-
 
 <!--
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">-->
@@ -73,6 +64,18 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Wordpress" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
+<br><br><br><br><br>
+### 📈 Github Stats:
 
+<a href="https://github.com/rajivranjanmars">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivranjanmars&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+</a>
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajivranjanmars&layout=compact&theme=blue-green" />
+</a>
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajivranjanmars)](https://git.io/streak-stats)
 
 
