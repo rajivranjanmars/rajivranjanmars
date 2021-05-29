@@ -50,8 +50,7 @@
 <div>
 
 <br>
-<br>
-<br>
+
 </div>
 
 
@@ -63,9 +62,9 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Wordpress" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-
-<br><br><br><br><br>
+<br><br>
 ### 📈 Github Stats:
+<hr/>
 
 <a href="https://github.com/rajivranjanmars">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivranjanmars&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
