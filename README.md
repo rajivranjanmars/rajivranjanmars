@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=rajivranjanmars&color=blue)
 <h3>A budding programmer exploring new fields of development.</h3>
 
-
-
 - 👨‍🏭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
 - 🏫 I’m currently learning **Problem Solving & Web Devlopment** 
 - 🙌 I’m looking to collaborate on **Web Development**
