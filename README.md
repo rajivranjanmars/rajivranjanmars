@@ -1,4 +1,4 @@
-### Hi ,I Am Rajiv Ranjan <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px" >
+### Hi ,I Am Rajiv Ranjan <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="3%">
 
 ![](https://komarev.com/ghpvc/?username=rajivranjanmars&color=blue)
 <h3>A budding programmer exploring new fields of development.</h3>
