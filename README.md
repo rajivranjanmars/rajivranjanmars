@@ -58,7 +58,14 @@
 <br><br>
 ### 📈 Github Stats:
 <hr/>
+<p float="left">
+  
+  <a href="https://github.com/ramansharma100"><img src="https://github-profile-trophy.vercel.app/?username=ramansharma100" alt="ramansharma100" /></a>
+</p>
+<br><br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajivranjanmars)](https://git.io/streak-stats)
+<br><br>
 <a href="https://github.com/rajivranjanmars">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivranjanmars&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
@@ -69,4 +76,3 @@
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajivranjanmars)](https://git.io/streak-stats)
