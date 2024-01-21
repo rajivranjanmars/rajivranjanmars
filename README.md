@@ -76,4 +76,4 @@
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajivranjanmars)](https://git.io/streak-stats)
+![Snake animation](https://github.com/rajivranjanmars/rajivranjanmars/blob/output/github-contribution-grid-snake.svg)
