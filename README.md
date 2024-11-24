@@ -3,11 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=rajivranjanmars&color=blue)
 <h3>A budding programmer exploring new fields of development.</h3>
 
-- 👨‍🏭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
-- 🏫 I’m currently learning **Problem Solving & Web Devlopment** 
+- 👨‍🏭 I’ have done **B.Tech CSE at Lovely Professional University** 
+- 🏫 I’m currently learning **Machine Learning & Devops** 
 - 🙌 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **web projects and competitive programing**
-- 🥅 2021 Goals: **Contribute more  projects & learn new stacks**
+- 🥅 2024 Goals: **Contribute more  projects & learn new stacks**
 - 💬 Ask me about Anything **either I recall or I learn**
 
 🕵 Take a look at my repositories and let's get in touch!
@@ -75,5 +75,3 @@
 </a>
 
 <br><br>
-
-![Snake animation](https://github.com/rajivranjanmars/rajivranjanmars/blob/output/github-contribution-grid-snake.svg)
