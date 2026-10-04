@@ -75,3 +75,11 @@
 </a>
 
 <br><br>
+
+## About this repository
+
+The GitHub profile repository for Rajiv Ranjan, containing profile information and links to projects and social accounts.
+
+## Author
+
+Author: [rajivranjanmars](https://rajivranjana.in).
