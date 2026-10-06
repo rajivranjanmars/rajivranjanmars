@@ -82,4 +82,4 @@ The GitHub profile repository for Rajiv Ranjan, containing profile information a
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
